@@ -15,6 +15,7 @@
     
     <access origin="dirtypradio.com" subdomains="true" />
     <access origin="dirtypradio" subdomains="true" />
+     <access origin="stats.dirtypradio.com" subdomains="true" />
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
