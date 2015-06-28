@@ -2,19 +2,19 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "org.devgeeks.examplehtml5audiostreaming"
-        version   = "0.5.0">
-    <name>Example HTML5 Audio Streaming</name>
+        version   = "0.6.0">
+    <name>DPR International Media</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Listen to Dirty P Radio on the Go!
     </description>
 
     <author href="http://devgeeks.org" email="tommy@devgeeks.org">
         Tommy-Carlos Williams
     </author>
     
-    <access origin="4zzzfm.org.au" subdomains="true" />
-    <access origin="devgeeks" subdomains="true" />
+    <access origin="dirtypradio.com" subdomains="true" />
+    <access origin="dirtypradio" subdomains="true" />
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
